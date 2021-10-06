@@ -15,7 +15,7 @@
 /frontend
 
 # backend
-/venv
+#/venv
 
 # misc
 .DS_Store
