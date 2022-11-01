@@ -6,7 +6,7 @@ A web app that let people easily build, train, compare/debug, and deploy ML mode
 
 (Backend is not uploaded here. Email juliantc@stanford.edu for the complete version)
 
-Website https://ai-studio.org (Mac downloadable)
+Website https://ai-studio.org (MacOS version downloadable)
 
 Watch Demo: https://youtu.be/0VIelEJyQlQ
 
